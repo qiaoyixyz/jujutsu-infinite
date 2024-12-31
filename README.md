@@ -1,6 +1,8 @@
-# jujutsu-infinite
+# Jujutsu-infinite-wiki
 
-Tips:More infomation,you can visit Jujutsu Infinite
+![jujutsu-infinite](https://tr.rbxcdn.com/180DAY-8f4d2b32676cb82b6607496cf9fa48f3/768/432/Image/Webp/noFilter)
+
+Tips:More infomation,you can visit [Jujutsu Infinite]((jujutsuinfinite.com))
 
 To get and play Jujutsu Infinite, a Roblox MMORPG inspired by Jujutsu Kaisen, follow these steps:
 
